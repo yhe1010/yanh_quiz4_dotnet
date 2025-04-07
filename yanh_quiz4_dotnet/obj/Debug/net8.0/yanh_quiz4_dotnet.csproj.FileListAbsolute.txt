@@ -1,0 +1,14 @@
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\bin\Debug\net8.0\yanh_quiz4_dotnet.exe
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\bin\Debug\net8.0\yanh_quiz4_dotnet.deps.json
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\bin\Debug\net8.0\yanh_quiz4_dotnet.runtimeconfig.json
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\bin\Debug\net8.0\yanh_quiz4_dotnet.dll
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\bin\Debug\net8.0\yanh_quiz4_dotnet.pdb
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.AssemblyInfoInputs.cache
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.AssemblyInfo.cs
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.dll
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\refint\yanh_quiz4_dotnet.dll
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.pdb
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\yanh_quiz4_dotnet.genruntimeconfig.cache
+C:\Users\Yanhua He\Desktop\yanh_quiz4_dotnet\yanh_quiz4_dotnet\obj\Debug\net8.0\ref\yanh_quiz4_dotnet.dll
